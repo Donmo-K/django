@@ -1,0 +1,4 @@
+#mon environnement
+venv/
+# ma base de donnees
+db.sqlite3/
